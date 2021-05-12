@@ -8,6 +8,10 @@ page_sections:
   headline: Hello world
   slug: hello-world
   content: This is a test.
+- template: detail-content
+  block: text-1
+  headline: Hello world again
+  content: "<p>This is even more detailed.</p>"
 published: false
 
 ---
